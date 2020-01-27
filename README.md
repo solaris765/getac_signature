@@ -1,1 +1,2 @@
-# getac_signature
+# Getac Email Signature
+Just a template.
